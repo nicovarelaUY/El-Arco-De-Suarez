@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "mongoose": "^7.5.2",
+    "preline": "^1.9.0",
+    "swiper": "^10.3.0"
+  }
+}

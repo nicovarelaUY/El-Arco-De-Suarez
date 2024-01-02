@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+#back {
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
